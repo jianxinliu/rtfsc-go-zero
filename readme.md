@@ -5,5 +5,5 @@
 - [X] `core/syncx/limit.go`
 - [X] `core/syncx/singleflight.go`
 - [ ] `core/syncx/spinlock.go`
-- [ ] `core/syncx/resourcemanager.go`
+- [X] `core/syncx/resourcemanager.go`
 - [ ] `core/syncx/pool.go`
